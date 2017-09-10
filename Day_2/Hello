@@ -1,0 +1,27 @@
+print("Hello World")
+
+# to jest pierwsza zmienna ( to jest komentarz )
+
+imie = "Marzena"
+
+print(imie)
+
+print(3 * (imie + " " ))
+
+nazwisko = "dziuba"
+spacja = " "
+nazwisko_duze = nazwisko.capitalize()
+
+print(imie + spacja + nazwisko.capitalize())
+print("{} {}".format(imie, nazwisko.capitalize()))
+
+print(10 * ("{0} {1} {2}".format(imie, nazwisko,spacja)))
+
+print("Nazwisko z dużej: ",nazwisko_duze)
+print("Nazwisko z pierwszej zmiennej: ",nazwisko)
+
+
+
+
+
+
