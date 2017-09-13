@@ -1,0 +1,1 @@
+#   po podaniu nazwy miesiaca, program napisze ilosc dni w miesiacu
