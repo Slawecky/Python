@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba21392d-6a1d-40b4-9ffb-89e5a7a9c74f" name="Default" comment="">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day_4/Break1.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day_4/Continue1.py" />
@@ -46,9 +47,15 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie9.py" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Prace_domowe/Stringi.py" afterPath="$PROJECT_DIR$/Prace_domowe/Day 1-2/Stringi.py" />
 >>>>>>> master
+=======
+>>>>>>> Stashed changes
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie4.py" afterPath="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day_3/Logika.py" afterPath="$PROJECT_DIR$/Day_3/Logika.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie1.py" afterPath="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie2.py" afterPath="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3.py" afterPath="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3.py" />
     </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +72,7 @@
       <file leaf-file-name="Logika.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day_3/Logika.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="270">
               <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="24" />
 =======
@@ -74,6 +82,60 @@
             <state relative-caret-position="397">
               <caret line="35" column="26" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="35" selection-end-column="26" />
 >>>>>>> master
+=======
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day_3/Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zadanie1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zadanie2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zadanie3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zadanie3a.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="27" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="27" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -103,11 +165,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="645">
-              <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+              <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -145,8 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Zmienne.py" />
-        <option value="$PROJECT_DIR$/Day_2/Zmienne.py" />
         <option value="$PROJECT_DIR$/Day_2/Hello" />
         <option value="$PROJECT_DIR$/Day_2/Z1ienne1.py" />
         <option value="$PROJECT_DIR$/Day_2/Zmienne1.py" />
@@ -166,12 +226,15 @@
         <option value="$PROJECT_DIR$/Prace_domowe/Zadanie1.py" />
         <option value="$PROJECT_DIR$/Prace_domowe/Zadanie1a.py" />
         <option value="$PROJECT_DIR$/Prace_domowe/Zadanie1b.py" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie1.py" />
 <<<<<<< HEAD
 =======
         <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie2.py" />
         <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie4.py" />
 >>>>>>> master
+=======
+>>>>>>> Stashed changes
         <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie5.py" />
         <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie6.py" />
         <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie7.py" />
@@ -191,7 +254,6 @@
         <option value="$PROJECT_DIR$/Day_4/For7.py" />
         <option value="$PROJECT_DIR$/Day_4/Break1.py" />
         <option value="$PROJECT_DIR$/Day_4/For_zad2.py" />
-        <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie2.py" />
         <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie4.py" />
         <option value="$PROJECT_DIR$/Day_4/For2.py" />
         <option value="$PROJECT_DIR$/Day_4/For3.py" />
@@ -202,8 +264,15 @@
         <option value="$PROJECT_DIR$/Day_4/Continue1.py" />
         <option value="$PROJECT_DIR$/Notatki" />
         <option value="$PROJECT_DIR$/.gitignore" />
+<<<<<<< Updated upstream
 =======
 >>>>>>> master
+=======
+        <option value="$PROJECT_DIR$/Day_3/Logika.py" />
+        <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie1.py" />
+        <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie2.py" />
+        <option value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3.py" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -223,10 +292,13 @@
           <State>
             <id>Python</id>
           </State>
+          <State>
+            <id>Spelling</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PyPep8Inspection</id>
+            <id>SpellCheckingInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -264,26 +336,54 @@
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Day_3" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< Updated upstream
 =======
 >>>>>>> master
+=======
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Day_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Prace_domowe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Prace_domowe" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 3-4" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> Stashed changes
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <pane id="Scratches" />
 =======
 >>>>>>> master
+=======
+>>>>>>> Stashed changes
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../iSAPython3/day3/zadania_domowe.py" />
 <<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
 =======
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
 >>>>>>> master
+=======
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+>>>>>>> Stashed changes
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -304,8 +404,12 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   <component name="RunManager" selected="Python.Continue1">
+=======
+  <component name="RunManager" selected="Python.Zadanie3">
+>>>>>>> Stashed changes
     <configuration name="Continue1" type="PythonConfigurationType" factoryName="Python" temporary="true">
 =======
   <component name="RunManager" selected="Python.Zadanie1a">
@@ -335,11 +439,15 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <configuration name="While1" type="PythonConfigurationType" factoryName="Python" temporary="true">
 =======
     <configuration name="Zadanie1a" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> master
+=======
+    <configuration name="While2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> Stashed changes
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -355,20 +463,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/While1.py" />
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3a.py" />
 >>>>>>> master
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/While2.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <configuration name="While2" type="PythonConfigurationType" factoryName="Python" temporary="true">
 =======
     <configuration name="war2" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> master
+=======
+    <configuration name="While3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> Stashed changes
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -384,20 +500,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/While2.py" />
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day3/war2.py" />
 >>>>>>> master
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/While3.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <configuration name="While3" type="PythonConfigurationType" factoryName="Python" temporary="true">
 =======
     <configuration name="war3" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> master
+=======
+    <configuration name="While4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> Stashed changes
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -413,45 +537,62 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/While3.py" />
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day3/war3.py" />
 >>>>>>> master
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/While4.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <configuration name="While4" type="PythonConfigurationType" factoryName="Python" temporary="true">
 =======
     <configuration name="war4" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> master
+=======
+    <configuration name="Zadanie3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> Stashed changes
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4" />
 =======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day3" />
 >>>>>>> master
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prace_domowe/Day 3-4" />
+>>>>>>> Stashed changes
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/While4.py" />
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day3/war4.py" />
 >>>>>>> master
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Python.While1" />
       <item index="1" class="java.lang.String" itemvalue="Python.While2" />
@@ -481,12 +622,28 @@
         <item index="3" class="java.lang.String" itemvalue="Python.war3" />
         <item index="4" class="java.lang.String" itemvalue="Python.war2" />
 >>>>>>> master
+=======
+      <item index="0" class="java.lang.String" itemvalue="Python.While2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.While3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.While4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Continue1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Zadanie3" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Zadanie3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Continue1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.While4" />
+        <item index="3" class="java.lang.String" itemvalue="Python.While3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.While2" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$APPLICATION_HOME_DIR$" Dictionaries="0" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ba21392d-6a1d-40b4-9ffb-89e5a7a9c74f" name="Default" comment="" />
@@ -529,6 +686,7 @@
   <component name="ToolWindowManager">
 <<<<<<< HEAD
     <frame x="10" y="45" width="1922" height="951" extended-state="6" />
+    <editor active="true" />
     <layout>
 =======
     <frame x="-1" y="25" width="1362" height="660" extended-state="6" />
@@ -544,7 +702,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.6884058" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12219851" sideWeight="0.49498746" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12326574" sideWeight="0.49498746" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249694" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15422277" sideWeight="0.5050125" order="2" side_tool="true" content_ui="tabs" />
 =======
@@ -581,6 +739,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 1-2/Stringi.py">
 <<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
@@ -602,6 +761,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/Day3/Test.py" />
     <entry file="file://$PROJECT_DIR$/Day3/numerki.py" />
     <entry file="file://$PROJECT_DIR$/Day3/Logika.py" />
@@ -611,6 +772,7 @@
     <entry file="file://$PROJECT_DIR$/Day3/war2.py" />
     <entry file="file://$PROJECT_DIR$/Day3/war3.py" />
     <entry file="file://$PROJECT_DIR$/Day3/war4.py" />
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3a.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -623,6 +785,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3b.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -635,6 +799,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -647,6 +812,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie5.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -729,6 +896,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie2.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -741,6 +909,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie4.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -750,13 +920,6 @@
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
 >>>>>>> master
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -964,6 +1127,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Day_3/Logika.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -973,6 +1137,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/Notatki">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -1001,6 +1167,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
+<<<<<<< Updated upstream
           <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
 =======
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
@@ -1012,10 +1179,14 @@
         <state relative-caret-position="503">
           <caret line="68" column="55" lean-forward="false" selection-start-line="68" selection-start-column="55" selection-end-line="68" selection-end-column="55" />
 >>>>>>> master
+=======
+          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Day3/Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1084,10 +1255,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="27" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="27" />
+=======
+    <entry file="file://$PROJECT_DIR$/Day_3/Logika.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3b.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1100,20 +1278,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+=======
+    <entry file="file://$PROJECT_DIR$/Day_3/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="27" />
+=======
+    <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie2.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="0">
           <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
@@ -1132,10 +1324,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+=======
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1180,14 +1377,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="35" column="26" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="35" selection-end-column="26" />
+=======
+    <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-450">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/Prace_domowe/Day 3-4/Zadanie3a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="27" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>

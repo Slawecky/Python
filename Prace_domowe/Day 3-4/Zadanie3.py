@@ -11,5 +11,5 @@ if liczba.isnumeric():
             if liczba % 7 == 0:
                 print (" :Liczba jest podzielna przez 3 i 5 i 7")
 
-else:
-    print("Podaj liczbę !")
+            else:
+                print("Podaj liczbę !")

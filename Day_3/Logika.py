@@ -17,8 +17,3 @@ print(not True)
 print(not False)
 
 # kolejność not and true
-
-
-
-
-
