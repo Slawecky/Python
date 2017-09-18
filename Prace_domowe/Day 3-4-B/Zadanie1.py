@@ -1,0 +1,1 @@
+# program wydający resztę z dostępnych monet: 5, 2, 1, 0.5, 0.2, 0.1
