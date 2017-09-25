@@ -10,3 +10,8 @@
 
 # Wpis w bazie danych : 1 - Imię, 2-Nazwisko, 3- Pesel, 4-Ocena kwalifikacyjna
 
+from Prace_domowe.Day_5_6.wybor_old import opcje
+
+print(opcje())
+
+
