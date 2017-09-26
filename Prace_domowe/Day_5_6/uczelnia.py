@@ -13,7 +13,7 @@ from Prace_domowe.Day_5_6.opcje import *
 def menu_kl():
 
     menu = {'1': "Dodaj studenta", '2': "Usuń studenta", '3': "Wyszukaj studenta", '4': "Pokaż listę studentów ",
-            '..': "", '9': "Zakończ program"}
+            '..': "", '9': "Zakończ program\n"}
     while True:
         wybor = menu.keys()
         print("\n Witam w systemie Comsite Uczelnia 2017,\n")
