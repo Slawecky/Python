@@ -1,6 +1,5 @@
 # Program - baza nowych studentów
 # Opcje do wyboru
-
 # 1. Dodaj studenta
 # 2. Usuń studenta
 # 3. Wyszukaj studenta
@@ -8,10 +7,40 @@
 # ...
 # x. zakończ program
 
-# Wpis w bazie danych : 1 - Imię, 2-Nazwisko, 3- Pesel, 4-Ocena kwalifikacyjna
+from Prace_domowe.Day_5_6.opcje import *
+# lista = []
 
-from Prace_domowe.Day_5_6.wybor_old import opcje
+def menu_kl():
 
-print(opcje())
+    menu = {'1': "Dodaj studenta", '2': "Usuń studenta", '3': "Wyszukaj studenta", '4': "Pokaż listę studentów ",
+            '..': "", '9': "Zakończ program"}
+    while True:
+        wybor = menu.keys()
+        print("\n Witam w systemie Comsite Uczelnia 2017,\n")
+        for inp in wybor:
+            print(inp, menu[inp])
+        przycisk = input("Wybierz odpowiedni klawisz: ")
+        print("\n")
+        if przycisk == '1':
+            dodaj()
+        elif przycisk == "2":
+            usun()
+        elif przycisk == '3':
+            wyszukaj()
+        elif przycisk == '4':
+            wypisz()
+        elif przycisk == '9':
+            print("Dziękujemy za pracę z naszym programem")
+            break
+        else:
+            print("Nie ten klawisz, wybierz ponownie")
+
+menu_kl()
+
+
+
+
+
+
 
 
