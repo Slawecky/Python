@@ -42,7 +42,7 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
-workspace.xml
+
 *,cover
 
 # Translations
@@ -59,3 +59,6 @@ docs/_build/
 target/
 .idea/preferred-vcs.xml
 .idea/workspace.xml
+
+# Hasła
+/home/slawecky/GIT/Python/Day_8/secrets.py
