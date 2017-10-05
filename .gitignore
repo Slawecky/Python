@@ -59,4 +59,5 @@ docs/_build/
 target/
 .idea/preferred-vcs.xml
 .idea/workspace.xml
+/home/slawecky/GIT/Python/Day_8/secrets.py
 

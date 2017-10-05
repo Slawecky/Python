@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d00603a-21e6-4f32-9208-53076ceb4c60" name="Default" comment="">
+    <list default="true" id="9d00603a-21e6-4f32-9208-53076ceb4c60" name="Default" comment="Merge branch 'master' of github.com:Slawecky/Python&#10;&#10;# Conflicts:&#10;#&#9;Day_8/secrets.py">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day_8/secrets.py" afterPath="$PROJECT_DIR$/Day_8/secrets.py" />
     </list>
@@ -54,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/Day_8/secrets.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -114,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="45" />
     <option name="width" value="1340" />
@@ -330,7 +330,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="45" width="1362" height="678" extended-state="7" />
+    <frame x="10" y="45" width="1362" height="678" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2757353" sideWeight="0.49369368" order="0" side_tool="false" content_ui="combo" />
@@ -689,7 +689,7 @@
     <entry file="file://$PROJECT_DIR$/Day_8/secrets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           <folding />
         </state>
       </provider>
