@@ -6,5 +6,5 @@ for i in zakres:
     if i % 2 == 0:
         il_pa += 1
     else:
-        il_niepa +=1
+        il_niepa += 1
 print(f"Nieparzyste {il_niepa}, parzyste {il_pa}")

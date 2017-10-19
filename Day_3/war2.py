@@ -9,7 +9,7 @@ if x == y:
     if x > 5:
         x += 1
         print("x jest równy", x)
-    elif x == 3:
+    else x == 3:
         x *= 2
         print("x jest równy,x")
 
