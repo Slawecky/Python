@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d00603a-21e6-4f32-9208-53076ceb4c60" name="Default" comment="Merge branch 'master' of github.com:Slawecky/Python&#10;&#10;# Conflicts:&#10;#&#9;Day_8/secrets.py">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day_13/dodaj.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day_13/helpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day_13/kalk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day_13/kalk_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day_13/pliczki.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day_13/resize_photo.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -18,7 +24,28 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dodaj.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day_13/dodaj.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pliczki.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day_13/pliczki.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Prace_domowe/Day_5_6/dodaj_studenta.py" />
         <option value="$PROJECT_DIR$/Prace_domowe/Day_5_6/student.py" />
         <option value="$PROJECT_DIR$/Prace_domowe/Day_5_6/wybor.py" />
         <option value="$PROJECT_DIR$/Prace_domowe/Day_5_6/opcje.py" />
@@ -87,10 +113,16 @@
         <option value="$PROJECT_DIR$/Day_12/zespoly.py" />
         <option value="$PROJECT_DIR$/Day_12/druzyna.py" />
         <option value="$PROJECT_DIR$/Day_12/testy.py" />
+        <option value="$PROJECT_DIR$/Day_13/kalk.py" />
+        <option value="$PROJECT_DIR$/Day_13/kalk_test_a.py" />
+        <option value="$PROJECT_DIR$/Day_13/kalk_test.py" />
+        <option value="$PROJECT_DIR$/Day_13/helpers.py" />
+        <option value="$PROJECT_DIR$/Day_13/dodaj.py" />
+        <option value="$PROJECT_DIR$/Day_13/pliczki.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="45" />
     <option name="width" value="1340" />
@@ -133,8 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,16 +175,18 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Day_12" type="462c0819:PsiDirectoryNode" />
+              <item name="Day_13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../iSAPython3/day9/biblioteka.py" />
   </component>
   <component name="RecentsManager">
@@ -177,97 +209,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for testy.TestZawodnik">
-    <configuration name="Unittests for testy.TestZawodnik" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pliczki">
+    <configuration name="Unittests for kalk_test.KalkTesty.test_dodaj" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testy.TestZawodnik&quot;" />
+      <option name="_new_target" value="&quot;kalk_test.KalkTesty.test_dodaj&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for testy.TestZawodnik.test_init" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for kalk_test.KalkTesty.test_odejmij" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testy.TestZawodnik.test_init&quot;" />
+      <option name="_new_target" value="&quot;kalk_test.KalkTesty.test_odejmij&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in testy.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in kalk_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Day_12/testy.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Day_13/kalk_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="sporty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dodaj" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_12/sporty.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_13/dodaj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="zespoly" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pliczki" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_12/zespoly.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_13/pliczki.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sporty" />
-      <item index="1" class="java.lang.String" itemvalue="Python.zespoly" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for testy.TestZawodnik.test_init" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in testy.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for testy.TestZawodnik" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for kalk_test.KalkTesty.test_dodaj" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in kalk_test.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for kalk_test.KalkTesty.test_odejmij" />
+      <item index="3" class="java.lang.String" itemvalue="Python.dodaj" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pliczki" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for testy.TestZawodnik" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testy.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for testy.TestZawodnik.test_init" />
-        <item index="3" class="java.lang.String" itemvalue="Python.zespoly" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sporty" />
+        <item index="0" class="java.lang.String" itemvalue="Python.pliczki" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dodaj" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for kalk_test.KalkTesty.test_odejmij" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in kalk_test.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for kalk_test.KalkTesty.test_dodaj" />
       </list>
     </recent_temporary>
   </component>
@@ -286,20 +318,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_testy_TestZawodnik - 2017.10.11 at 20h 18m 32s.xml">
-      <configuration name="Unittests for testy.TestZawodnik" configurationId="tests" />
+    <history-entry file="Unittests_for_kalk_test_KalkTesty - 2017.10.17 at 17h 54m 26s.xml">
+      <configuration name="Unittests for kalk_test.KalkTesty" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testy_TestZawodnik - 2017.10.11 at 20h 25m 14s.xml">
-      <configuration name="Unittests for testy.TestZawodnik" configurationId="tests" />
+    <history-entry file="Unittests_for_kalk_test_KalkTesty_test_dodaj - 2017.10.17 at 17h 52m 07s.xml">
+      <configuration name="Unittests for kalk_test.KalkTesty.test_dodaj" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testy_TestZawodnik_test_init - 2017.10.11 at 20h 07m 25s.xml">
-      <configuration name="Unittests for testy.TestZawodnik.test_init" configurationId="tests" />
+    <history-entry file="Unittests_for_kalk_test_KalkTesty_test_dodaj - 2017.10.17 at 17h 52m 17s.xml">
+      <configuration name="Unittests for kalk_test.KalkTesty.test_dodaj" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testy_TestZawodnik_test_init - 2017.10.11 at 20h 07m 40s.xml">
-      <configuration name="Unittests for testy.TestZawodnik.test_init" configurationId="tests" />
+    <history-entry file="Unittests_for_kalk_test_KalkTesty_test_dodaj - 2017.10.17 at 17h 54m 41s.xml">
+      <configuration name="Unittests for kalk_test.KalkTesty.test_dodaj" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testy_py - 2017.10.11 at 20h 18m 16s.xml">
-      <configuration name="Unittests in testy.py" configurationId="tests" />
+    <history-entry file="Unittests_for_kalk_test_KalkTesty_test_dodaj - 2017.10.17 at 17h 55m 59s.xml">
+      <configuration name="Unittests for kalk_test.KalkTesty.test_dodaj" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kalk_test_KalkTesty_test_dodaj - 2017.10.17 at 17h 56m 27s.xml">
+      <configuration name="Unittests for kalk_test.KalkTesty.test_dodaj" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kalk_test_KalkTesty_test_odejmij - 2017.10.17 at 18h 07m 44s.xml">
+      <configuration name="Unittests for kalk_test.KalkTesty.test_odejmij" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kalk_test_KalkTesty_test_odejmij - 2017.10.17 at 18h 28m 16s.xml">
+      <configuration name="Unittests for kalk_test.KalkTesty.test_odejmij" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_kalk_test_py - 2017.10.17 at 17h 52m 39s.xml">
+      <configuration name="Unittests in kalk_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_kalk_test_py - 2017.10.17 at 17h 56m 34s.xml">
+      <configuration name="Unittests in kalk_test.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -312,18 +359,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="45" width="1922" height="990" extended-state="6" />
+    <frame x="10" y="45" width="1922" height="990" extended-state="7" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27427962" sideWeight="0.49369368" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27321157" sideWeight="0.49369368" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5403349" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="961" y="49" width="958" height="925" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897195" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6035008" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="961" y="49" width="958" height="925" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5063063" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32794458" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3986135" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5063063" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -383,48 +430,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day_8/blad.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prace_domowe/Day_1_2/Stringi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prace_domowe/Day_3_4_A/Zadanie10_s.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prace_domowe/Day_3_4_A/Zadanie10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prace_domowe/Day_3_4_B/Zadanie2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prace_domowe/Day_3_4_B/Zadanie1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../iSAPython3/day8/poczta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -704,9 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,13 +730,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Photo/Humpback Whale.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day_13/kalk_test_a.py" />
+    <entry file="file://$PROJECT_DIR$/Day_13/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day_13/kalk_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day_13/kalk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day_13/dodaj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day_13/pliczki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
