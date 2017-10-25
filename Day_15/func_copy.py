@@ -1,10 +1,13 @@
+
+
 def dodaj():
-    print("Funkcja dodaj")
+    print("funkcja dodaj")
 
-#dodaj()
 
-x =dodaj()
+# dodaj()
+
+x = dodaj()
+y = dodaj
+
 print(x)
-
-y= dodaj
 print(y)

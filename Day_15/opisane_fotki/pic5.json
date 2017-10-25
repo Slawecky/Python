@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "people_",
+            "score": 0.76953125,
+            "detail": {
+                "celebrities": [
+                    {
+                        "name": "Robert Lewandowski",
+                        "faceRectangle": {
+                            "left": 745,
+                            "top": 170,
+                            "width": 190,
+                            "height": 190
+                        },
+                        "confidence": 1.0
+                    }
+                ]
+            }
+        }
+    ],
+    "adult": {
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "adultScore": 0.016739271581172943,
+        "racyScore": 0.01831522211432457
+    },
+    "description": {
+        "tags": [
+            "person",
+            "player",
+            "outdoor",
+            "sport",
+            "game",
+            "man",
+            "standing",
+            "holding",
+            "walking",
+            "wearing",
+            "ball",
+            "uniform",
+            "red",
+            "field",
+            "hand",
+            "baseball",
+            "throwing",
+            "ready",
+            "shirt",
+            "crowd",
+            "soccer",
+            "glove",
+            "woman",
+            "blue",
+            "playing"
+        ],
+        "captions": [
+            {
+                "text": "a football player wearing a red shirt",
+                "confidence": 0.6720376961871347
+            }
+        ]
+    },
+    "requestId": "b9b1a7af-6f10-47cc-9a95-76d64ea302cb",
+    "metadata": {
+        "width": 1762,
+        "height": 1050,
+        "format": "Jpeg"
+    },
+    "faces": [
+        {
+            "age": 31,
+            "gender": "Male",
+            "faceRectangle": {
+                "left": 744,
+                "top": 170,
+                "width": 192,
+                "height": 192
+            }
+        }
+    ]
+}

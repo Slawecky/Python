@@ -1,0 +1,53 @@
+{
+    "categories": [
+        {
+            "name": "sky_object",
+            "score": 0.97265625
+        }
+    ],
+    "adult": {
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "adultScore": 0.09911232441663742,
+        "racyScore": 0.23139013350009918
+    },
+    "description": {
+        "tags": [
+            "animal",
+            "outdoor",
+            "bird",
+            "raptor",
+            "eagle",
+            "flying",
+            "water",
+            "air",
+            "large",
+            "snow",
+            "body",
+            "top",
+            "ocean",
+            "mountain",
+            "standing",
+            "close",
+            "man",
+            "white",
+            "flock",
+            "beach",
+            "blue",
+            "swimming"
+        ],
+        "captions": [
+            {
+                "text": "a bird flying over a body of water",
+                "confidence": 0.9256802602950036
+            }
+        ]
+    },
+    "requestId": "c4949b88-2d00-45a1-9cd0-80af900d7e50",
+    "metadata": {
+        "width": 602,
+        "height": 401,
+        "format": "Jpeg"
+    },
+    "faces": []
+}

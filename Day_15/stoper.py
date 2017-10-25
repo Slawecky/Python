@@ -78,12 +78,12 @@ def start():
 def stop():
     '''Stops watch, adds try and score if stopped on even second.'''
 
-global game_run, score, attempt
+    global game_run, score, attempt
 
-if game_run:
-    timer.stop()
-        if time val % 10 == 0:
-           score+= 1
+    if game_run:
+        timer.stop()
+        if time_val % 10 == 0:
+            score += 1
         attempt += 1
     game_run = False
 
@@ -103,9 +103,8 @@ def reset():
 # define event handler for timer with 0.1 sec interval
 def stoper():
     '''Add 1 to time_val every 0.1 sec'''
-    global  time_val
+    global time_val
     time_val += 1
-    #todo
 
 
 # define handler for drawing time on canvas

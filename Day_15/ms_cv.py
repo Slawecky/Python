@@ -8,8 +8,19 @@ import json
 import os
 import requests
 
-api_key = "93ac610c75ee47b8b820095c05b26c7d"
+api_key = "xx"
 api_url = "https://westeurope.api.cognitive.microsoft.com/vision/v1.0/analyze"
+
+headers = {
+    'Content-Type': 'application/json',
+    'Ocp-Apim-Subscription-Key': api_key
+}
+
+param = {
+    'visualFeatures': 'Categories,Description,Faces,Adult',
+    'details': 'Celebrities'
+}
+
 
 def get_pic_info(pic_url, pic_name):
     body = {'url': f'{pic_url}'}
@@ -40,13 +51,22 @@ def get_face_rect(face_data: dict):
             rect['top'],
             rect['left'] + rect['width'],
             rect['top'] + rect['height']
-    ]
+            ]
 
 
 def get_caption(data):
-    captions = data['descritpion']['captions']
+    captions = data['description']['captions']
 
     if len(captions) > 0:
         return captions[0]['text']
     else:
         return "No caption"
+
+
+def main():
+    print("Uruchom plik foto_opis.py (jedno zdjęcie przykładowe), "
+          "lub plik opisuj_fotki z kilkoma zdjęciami :)")
+
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,47 @@
+{
+    "adult": {
+        "isAdultContent": false,
+        "isRacyContent": true,
+        "adultScore": 0.12207768857479095,
+        "racyScore": 0.38153111934661865
+    },
+    "description": {
+        "tags": [
+            "dog",
+            "outdoor",
+            "white",
+            "sitting",
+            "leash",
+            "small",
+            "water",
+            "black",
+            "frisbee",
+            "large",
+            "wearing",
+            "brown",
+            "mouth",
+            "holding",
+            "beach",
+            "yellow",
+            "laying",
+            "man",
+            "hat",
+            "playing",
+            "ball",
+            "standing"
+        ],
+        "captions": [
+            {
+                "text": "a brown and white dog on a leash",
+                "confidence": 0.869239297838855
+            }
+        ]
+    },
+    "requestId": "f01fbceb-c56e-42ac-9e87-a4815a965c0f",
+    "metadata": {
+        "width": 470,
+        "height": 470,
+        "format": "Jpeg"
+    },
+    "faces": []
+}

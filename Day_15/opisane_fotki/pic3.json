@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "name": "people_group",
+            "score": 0.55859375,
+            "detail": {
+                "celebrities": [
+                    {
+                        "name": "Vladimir Putin",
+                        "faceRectangle": {
+                            "left": 404,
+                            "top": 226,
+                            "width": 355,
+                            "height": 355
+                        },
+                        "confidence": 0.9999999
+                    }
+                ]
+            }
+        }
+    ],
+    "adult": {
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "adultScore": 0.07569511979818344,
+        "racyScore": 0.07147199660539627
+    },
+    "description": {
+        "tags": [
+            "person",
+            "outdoor",
+            "man",
+            "sitting",
+            "looking",
+            "holding",
+            "food",
+            "black",
+            "front",
+            "woman",
+            "table",
+            "water",
+            "young",
+            "phone",
+            "standing",
+            "wearing",
+            "plate",
+            "street",
+            "shirt"
+        ],
+        "captions": [
+            {
+                "text": "Vladimir Putin looking at the camera",
+                "confidence": 0.7832354067458328
+            }
+        ]
+    },
+    "requestId": "5dadb8cf-d897-4fb1-8666-8724de9da1dc",
+    "metadata": {
+        "width": 1440,
+        "height": 1080,
+        "format": "Jpeg"
+    },
+    "faces": [
+        {
+            "age": 52,
+            "gender": "Male",
+            "faceRectangle": {
+                "left": 400,
+                "top": 221,
+                "width": 364,
+                "height": 364
+            }
+        }
+    ]
+}
