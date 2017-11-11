@@ -10,6 +10,6 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 
 print("Ciąg Fibonaciego : ")
-for fib in range(36):
+for fib in range(50):
 
     print(f"Liczba {fib}    :   {fibonacci(fib)}")
